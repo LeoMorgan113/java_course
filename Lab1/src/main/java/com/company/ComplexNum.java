@@ -14,7 +14,7 @@ public class ComplexNum{
         this.imaginary = imaginary;
     }
 
-    public void set(ComplexNum z) {
+    public void setNum(ComplexNum z) {
         this.real = z.real;
         this.imaginary = z.imaginary;
     }
